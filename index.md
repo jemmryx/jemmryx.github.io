@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Xin Jia
 
-You can use the [editor on GitHub](https://github.com/jemmryx/jemmryx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+M.Sc. Candidate, Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MOE Key Lab of Computational Linguistics, School of EECS, Peking University
 
-### Markdown
+Advisor: A/Prof. Yunfang Wu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Research Interests
+Question Generation, Dialogue Generation, Query Rewrite
 
-# Header 1
-## Header 2
-### Header 3
+### Intership
+Research Intern at Search Strategy Department, Baidu, May.2020-present
 
-- Bulleted
-- List
+### Publications
+#### Natural Language Processing
+How to Ask Good Questions? Try to Leverage Paraphrases
 
-1. Numbered
-2. List
+**Xin Jia**, Wenjie Zhou, Xu SUN and Yunfang Wu
+ACL 2020  
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Data Visualization
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Automated brain extraction and associated 3D inspection layers for the Rhesus macaque
+MRI datasets
 
-### Jekyll Themes
+Zeqing Fu, Yiyi Deng, **Xin Jia**, Bin Gao, Xiaoming Zhu, Yanlin Luo
+VRCAI 2016  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jemmryx/jemmryx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+The Framework of Inspection Layers of CT and MRI Human Brain Datasets by Bimanual Gesture Interaction
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yiyi Deng, Zeqing Fu, **Xin Jia**, Bin Gao, Yanlin Luo
+AsiaSim 2016  
+
+
