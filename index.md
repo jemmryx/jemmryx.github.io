@@ -17,11 +17,11 @@ Research Intern at Search Strategy Department, Baidu, May.2020-present
 
 ### Publications
 #### Natural Language Processing
-+ How to Ask Good Questions? Try to Leverage Paraphrases
++ {How to Ask Good Questions? Try to Leverage Paraphrases
 
 **Xin Jia**, Wenjie Zhou, Xu SUN and Yunfang Wu
 
-*ACL 2020*
+*ACL 2020*}
 
 #### Data Visualization
 
