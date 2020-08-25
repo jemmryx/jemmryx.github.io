@@ -17,7 +17,11 @@ Research Intern at Search Strategy Department, Baidu, May.2020-present
 
 ### Publications
 #### Natural Language Processing
-+ How to Ask Good Questions? Try to Leverage Paraphrases<br />**Xin Jia**, Wenjie Zhou, Xu SUN and Yunfang Wu<br />*ACL 2020*
++ How to Ask Good Questions? Try to Leverage Paraphrases<br />**Xin Jia**, Wenjie Zhou, Xu Sun and Yunfang Wu<br />*ACL 2020*
+
++ EQG-RACE: Examination-Type Question Generation<br />**Xin Jia**, Wenjie Zhou, Xu Sun and Yunfang Wu<br />*Preprint 2020*
+
++ Asking Questions with Commonsense Background<br />**Xin Jia**, Hao Wang, Dawei Yin and Yunfang Wu<br />*Preprint 2020*
 
 #### Data Visualization
 
