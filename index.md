@@ -12,7 +12,7 @@ Question Generation, Dialogue Generation, Query Rewrite
 
 
 ### Internship
-Research Intern at Search Strategy Department, Baidu, May.2020-present
+Research Intern at Search Strategy Department, Baidu, May.2020-Nov.2020
 
 
 ### Publications
