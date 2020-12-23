@@ -26,9 +26,9 @@ Research Intern at Search Strategy Department, Baidu, May.2020-Nov.2020
 #### Data Visualization
 
 + Automated brain extraction and associated 3D inspection layers for the Rhesus macaque
-MRI datasets<br />Zeqing Fu, Yiyi Deng, **Xin Jia**, Bin Gao, Xiaoming Zhu, Yanlin Luo<br />*VRCAI 2016*  
+MRI datasets<br />Zeqing Fu, Yiyi Deng, **Xin Jia**, Bin Gao, Xiaoming Zhu, Yanlin Luo<br />**VRCAI 2016**  
 
 
-+ The Framework of Inspection Layers of CT and MRI Human Brain Datasets by Bimanual Gesture Interaction<br />Yiyi Deng, Zeqing Fu, **Xin Jia**, Bin Gao, Yanlin Luo<br />*AsiaSim 2016*  
++ The Framework of Inspection Layers of CT and MRI Human Brain Datasets by Bimanual Gesture Interaction<br />Yiyi Deng, Zeqing Fu, **Xin Jia**, Bin Gao, Yanlin Luo<br />**AsiaSim 2016**  
 
 
