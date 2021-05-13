@@ -8,11 +8,11 @@ Advisor: A/Prof. Yunfang Wu
 
 
 ### Research Interests
-Question Generation, Dialogue Generation, Query Rewrite
+Question Generation
 
 
 ### Internship
-Research Intern at Search Strategy Department, Baidu, May.2020-Nov.2020
+Research Intern at Search And Strategy Department, Baidu
 
 
 ### Publications
