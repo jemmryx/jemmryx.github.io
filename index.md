@@ -21,7 +21,7 @@ Research Intern at Search And Strategy Department, Baidu
 
 + EQG-RACE: Examination-Type Question Generation<br />**Xin Jia**, Wenjie Zhou, Xu Sun and Yunfang Wu<br />**AAAI 2021**
 
-+ Enhancing Question Generation with Commonsense Knowledge<br />**Xin Jia**, Hao Wang, Dawei Yin and Yunfang Wu<br />**Preprint 2021**
++ Enhancing Question Generation with Commonsense Knowledge<br />**Xin Jia**, Hao Wang, Dawei Yin and Yunfang Wu<br />**CCL 2021**
 
 #### Data Visualization
 
