@@ -1,6 +1,6 @@
 ## Xin Jia
 
-M.Sc. Candidate, Computer Science
+M.Sc., Computer Science
 
 MOE Key Lab of Computational Linguistics, School of EECS, Peking University
 
@@ -13,6 +13,8 @@ Question Generation
 
 ### Internship
 Research Intern at Search And Strategy Department, Baidu
+### Work
+RD at DeepQA, Search And Strategy Department, Baidu
 
 
 ### Publications
@@ -22,6 +24,8 @@ Research Intern at Search And Strategy Department, Baidu
 + EQG-RACE: Examination-Type Question Generation<br />**Xin Jia**, Wenjie Zhou, Xu Sun and Yunfang Wu<br />**AAAI 2021**
 
 + Enhancing Question Generation with Commonsense Knowledge<br />**Xin Jia**, Hao Wang, Dawei Yin and Yunfang Wu<br />**CCL 2021**
+
++ Asking Questions Like Educational Experts:Automatically Generating Question-Answer Pairs on Real-world Examination Data<br />Fanyi Qu, **Xin Jia**, and Yunfang Wu<br />**EMNLP 2021**
 
 #### Data Visualization
 
