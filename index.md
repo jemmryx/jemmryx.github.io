@@ -25,7 +25,7 @@ RD at DeepQA, Search And Strategy Department, Baidu
 
 + Enhancing Question Generation with Commonsense Knowledge<br />**Xin Jia**, Hao Wang, Dawei Yin and Yunfang Wu<br />**CCL 2021**
 
-+ Asking Questions Like Educational Experts:Automatically Generating Question-Answer Pairs on Real-world Examination Data<br />Fanyi Qu, **Xin Jia**, and Yunfang Wu<br />**EMNLP 2021**
++ Asking Questions Like Educational Experts: Automatically Generating Question-Answer Pairs on Real-world Examination Data<br />Fanyi Qu, **Xin Jia**, and Yunfang Wu<br />**EMNLP 2021**
 
 #### Data Visualization
 
