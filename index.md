@@ -14,7 +14,7 @@ Question Generation
 ### Internship
 Research Intern at Search And Strategy Department, Baidu
 ### Work
-RD at DeepQA, Search And Strategy Department, Baidu
+Senior R&D Engineer at DeepQA, Search And Strategy Department, Baidu
 
 
 ### Publications
