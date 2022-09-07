@@ -27,6 +27,8 @@ RD at DeepQA, Search And Strategy Department, Baidu
 
 + Asking Questions Like Educational Experts: Automatically Generating Question-Answer Pairs on Real-world Examination Data<br />Fanyi Qu, **Xin Jia**, and Yunfang Wu<br />**EMNLP 2021**
 
++ Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation<br />Zichen Wu, **Xin Jia**, and Yunfang Wu<br />**COLING 2022**
+
 #### Data Visualization
 
 + Automated brain extraction and associated 3D inspection layers for the Rhesus macaque
