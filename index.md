@@ -8,7 +8,7 @@ Advisor: A/Prof. Yunfang Wu
 
 
 ### Research Interests
-Question Generation
+Question Generation, Text2SQL, Database Question Answering
 
 
 ### Internship
