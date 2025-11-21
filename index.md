@@ -29,6 +29,11 @@ Senior R&D Engineer at DeepQA, Search And Strategy Department, Baidu
 
 + Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation<br />Zichen Wu, **Xin Jia**, Fanyi Qu and Yunfang Wu<br />**COLING 2022**
 
++ Advancing Temporal Sensitive Question Answering through Progressive Multi-Step Reflection<br />Ziyang Chen, Erxue Min, Xiang Zhao, Yunxin Li, **Xin Jia**, Jinzhi Liao, Shuaiqiang Wang, Baotian Hu and Dawei Yin<br />**CIKM 2025**
+
++ CTR-Guided Generative Query Suggestion in Conversational Search<br />Erxue Min, Hsiu-Yuan Huang, Xihong Yang, Min Yang, **Xin Jia**, Yunfang Wu, Hengyi Cai, Junfeng Wang, Shuaiqiang Wang, Dawei Yin<br />**EMNLP 2025**
+
+  
 #### Data Visualization
 
 + Automated brain extraction and associated 3D inspection layers for the Rhesus macaque
