@@ -15,6 +15,7 @@ Question Generation, Text2SQL, Database Question Answering, LLM, AI Search
 Research Intern at Search And Strategy Department, Baidu
 ### Work
 Senior Engineer, Cloud and Smart Industries Group (CSIG), Tencent, 2025-now
+
 Senior R&D Engineer at DeepQA, Search And Strategy Department, Baidu, 2021-2025
 
 
